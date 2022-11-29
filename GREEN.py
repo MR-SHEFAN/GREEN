@@ -1,0 +1,3 @@
+import GREEN
+
+Main.o
